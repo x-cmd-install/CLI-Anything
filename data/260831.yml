@@ -1,0 +1,62 @@
+about:
+  description: "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+  license: Apache-2.0
+  homepage: https://clianything.cc/
+  head: 810c18b
+  archived: false
+  latestVersion: v0.4.0
+  collectedAt: 2026-08-31T06:26:08Z
+timeline:
+  created: 2026-03-08
+  lastCommit: 2026-08-21
+  lastRelease: 2026-06-25
+popularity:
+  star: 48699
+  watcher: 185
+  fork: 4519
+  release: 3
+  contributor: 111
+  pullRequest: 117
+  issue: 132
+language:
+  Python: 11022627
+  C#: 177101
+  Shell: 68781
+  JavaScript: 39992
+  PowerShell: 26775
+  TypeScript: 16641
+  Swift: 12212
+totalLine: 11364129
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 13
+    openPR: 9
+    closedIssue: 3
+    openIssue: 5
+    commit: 14
+  last90d:
+    since: 2026-06-02
+    release: 1
+    mergedPR: 47
+    openPR: 19
+    closedIssue: 12
+    openIssue: 21
+    commit: 63
+  last180d:
+    since: 2026-03-04
+    release: 3
+    mergedPR: 198
+    openPR: 35
+    closedIssue: 83
+    openIssue: 49
+    commit: 670
+  last360d:
+    since: 2025-09-05
+    release: 3
+    mergedPR: 198
+    openPR: 35
+    closedIssue: 83
+    openIssue: 49
+    commit: 684
