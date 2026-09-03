@@ -1,19 +1,21 @@
 about:
-  description: "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+  description:
+  |
+    "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
   license: Apache-2.0
   homepage: https://clianything.cc/
   head: 810c18b
   archived: false
   latestVersion: v0.4.0
-  collectedAt: 2026-09-03T05:21:58Z
+  collectedAt: 2026-09-03T22:38:42Z
 timeline:
   created: 2026-03-08
   lastCommit: 2026-08-21
   lastRelease: 2026-06-25
 popularity:
-  star: 48883
-  watcher: 189
-  fork: 4538
+  star: 48930
+  watcher: 191
+  fork: 4539
   release: 3
   contributor: 111
   pullRequest: 119
@@ -26,7 +28,7 @@ language:
   PowerShell: 26775
   TypeScript: 16641
   Swift: 12212
-totalLine: 11364129
+totalBytes: 11364129
 recent:
   last30d:
     since: 2026-08-04
