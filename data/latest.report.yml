@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.0"
   latestRelease: "v0.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:04:28Z
+  collectedAt: 2026-09-09T20:35:52Z
 timeline:
   created: 2026-03-08
   lastCommit: 2026-08-21
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-25
   lastPrerelease: 
 popularity:
-  star: 49162
+  star: 49179
   watcher: 194
-  fork: 4549
+  fork: 4552
   release: 3
   contributor: 111
-  pullRequest: 317
+  pullRequest: 321
   issue: 132
 language:
   Python: 11022627
@@ -36,7 +36,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 8
-    openPR: 9
+    openPR: 13
     closedIssue: 2
     openIssue: 5
     commit: 12
@@ -44,7 +44,7 @@ recent:
     since: 2026-07-11
     release: 0
     mergedPR: 20
-    openPR: 12
+    openPR: 16
     closedIssue: 8
     openIssue: 10
     commit: 27
@@ -52,7 +52,7 @@ recent:
     since: 2026-06-11
     release: 1
     mergedPR: 38
-    openPR: 20
+    openPR: 24
     closedIssue: 10
     openIssue: 19
     commit: 41
@@ -60,7 +60,7 @@ recent:
     since: 2026-03-13
     release: 3
     mergedPR: 179
-    openPR: 36
+    openPR: 40
     closedIssue: 59
     openIssue: 48
     commit: 594
@@ -68,7 +68,7 @@ recent:
     since: 2025-09-14
     release: 3
     mergedPR: 198
-    openPR: 36
+    openPR: 40
     closedIssue: 83
     openIssue: 49
     commit: 684
@@ -76,20 +76,20 @@ recent:
     since: 2024-09-19
     release: 3
     mergedPR: 198
-    openPR: 36
+    openPR: 40
     closedIssue: 83
     openIssue: 49
     commit: 885
 total:
   release: 3
   mergedPR: 198
-  openPR: 36
+  openPR: 40
   closedIssue: 83
   openIssue: 49
   commit: 885
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/CLI-Anything
-collectedAt: 2026-09-09T06:04:32Z
+collectedAt: 2026-09-09T20:35:55Z
 loc:
   Python:
     code: 242308
