@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.0"
   latestRelease: "v0.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:21:04Z
+  collectedAt: 2026-09-10T23:40:29Z
 timeline:
   created: 2026-03-08
   lastCommit: 2026-08-21
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-25
   lastPrerelease: 
 popularity:
-  star: 49203
+  star: 49218
   watcher: 195
   fork: 4554
   release: 3
@@ -89,7 +89,7 @@ total:
   commit: 885
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/CLI-Anything
-collectedAt: 2026-09-10T18:21:11Z
+collectedAt: 2026-09-10T23:40:35Z
 loc:
   Python:
     code: 242308
