@@ -4,7 +4,7 @@
 
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-![CLI-Anything](https://repo.x-cmd.io/CLI-Anything.svg)
+[![x-cmd/install — CLI-Anything Code Quality Monitoring Repo Card](https://repo.x-cmd.io/CLI-Anything.svg)](https://x-cmd.com/install/CLI-Anything)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **260,449** lines of code across **1244** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 49,552 · **Forks**: 4,575 · **Open issues**: 136 · **Contributors**: 111
+- **Stars**: 49,608 · **Forks**: 4,581 · **Open issues**: 136 · **Contributors**: 111
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 198 · **Open PRs**: 46 · **Closed issues**: 83 · **Open issues**: 53 · **Commits**: 885
+- **Releases**: 3 · **Merged PRs**: 198 · **Open PRs**: 48 · **Closed issues**: 83 · **Open issues**: 53 · **Commits**: 885
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 17 | 0 | 7 | 12 |
-| last60d | 2026-07-20 | 0 | 15 | 21 | 8 | 14 | 27 |
-| 90d | 2026-06-20 | 1 | 30 | 27 | 9 | 20 | 41 |
-| last180d | 2026-03-22 | 3 | 149 | 45 | 43 | 52 | 506 |
-| 360d | 2025-09-23 | 3 | 198 | 46 | 83 | 53 | 684 |
-| last720d | 2024-09-28 | 3 | 198 | 46 | 83 | 53 | 885 |
+| 30d | 2026-08-21 | 0 | 0 | 18 | 0 | 7 | 12 |
+| last60d | 2026-07-22 | 0 | 15 | 22 | 4 | 10 | 27 |
+| 90d | 2026-06-22 | 1 | 30 | 28 | 9 | 20 | 41 |
+| last180d | 2026-03-24 | 3 | 144 | 47 | 41 | 52 | 506 |
+| 360d | 2025-09-25 | 3 | 198 | 48 | 83 | 53 | 684 |
+| last720d | 2024-09-30 | 3 | 198 | 48 | 83 | 53 | 885 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for CLI-Anything lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:12:42Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:14:20Z._
