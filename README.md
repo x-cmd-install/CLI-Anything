@@ -33,26 +33,26 @@ Total: **260,449** lines of code across **1244** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.0` (2026-06-25)
-- **Last commit**: 2026-08-21
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 49,637 · **Forks**: 4,582 · **Open issues**: 137 · **Contributors**: 111
+- **Stars**: 49,674 · **Forks**: 4,588 · **Open issues**: 137 · **Contributors**: 111
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 198 · **Open PRs**: 49 · **Closed issues**: 83 · **Open issues**: 54 · **Commits**: 885
+- **Releases**: 3 · **Merged PRs**: 202 · **Open PRs**: 50 · **Closed issues**: 83 · **Open issues**: 54 · **Commits**: 893
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 19 | 0 | 8 | 0 |
-| last60d | 2026-07-23 | 0 | 15 | 23 | 4 | 11 | 27 |
-| 90d | 2026-06-23 | 1 | 30 | 29 | 9 | 21 | 40 |
-| last180d | 2026-03-25 | 3 | 139 | 48 | 38 | 53 | 446 |
-| 360d | 2025-09-26 | 3 | 198 | 49 | 83 | 54 | 684 |
-| last720d | 2024-10-01 | 3 | 198 | 49 | 83 | 54 | 885 |
+| 30d | 2026-08-23 | 0 | 4 | 20 | 0 | 8 | 4 |
+| last60d | 2026-07-24 | 0 | 19 | 24 | 4 | 11 | 31 |
+| 90d | 2026-06-24 | 1 | 34 | 30 | 9 | 21 | 44 |
+| last180d | 2026-03-26 | 3 | 141 | 49 | 38 | 53 | 450 |
+| 360d | 2025-09-27 | 3 | 202 | 50 | 83 | 54 | 688 |
+| last720d | 2024-10-02 | 3 | 202 | 50 | 83 | 54 | 893 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for CLI-Anything lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:16:07Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:15:58Z._
