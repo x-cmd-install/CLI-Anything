@@ -4,7 +4,7 @@
 
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-[![x-cmd/install — CLI-Anything Code Quality Monitoring Repo Card](https://repo.x-cmd.io/CLI-Anything.svg?lang=zh)](https://x-cmd.com/install/CLI-Anything)
+[![x-cmd/install — CLI-Anything Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/CLI-Anything.svg?lang=zh)](https://x-cmd.com/install/CLI-Anything)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install CLI-Anything
 
 ## 流行度
 
-- **Star**: 49,674 · **Fork**: 4,588 · **开放 issue**: 137 · **贡献者**: 111
+- **Star**: 49,716 · **Fork**: 4,590 · **开放 issue**: 137 · **贡献者**: 111
 
 ## 累计统计
 
-- **发布数**: 3 · **已合并 PR**: 202 · **开放 PR**: 50 · **已关闭 issue**: 83 · **开放 issue**: 54 · **提交数**: 893
+- **发布数**: 3 · **已合并 PR**: 202 · **开放 PR**: 52 · **已关闭 issue**: 83 · **开放 issue**: 54 · **提交数**: 893
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 4 | 20 | 0 | 8 | 4 |
-| last60d | 2026-07-24 | 0 | 19 | 24 | 4 | 11 | 31 |
-| 90d | 2026-06-24 | 1 | 34 | 30 | 9 | 21 | 44 |
-| last180d | 2026-03-26 | 3 | 141 | 49 | 38 | 53 | 450 |
-| 360d | 2025-09-27 | 3 | 202 | 50 | 83 | 54 | 688 |
-| last720d | 2024-10-02 | 3 | 202 | 50 | 83 | 54 | 893 |
+| 30d | 2026-08-24 | 0 | 4 | 21 | 0 | 8 | 4 |
+| last60d | 2026-07-25 | 0 | 19 | 27 | 4 | 11 | 31 |
+| 90d | 2026-06-25 | 1 | 34 | 32 | 9 | 21 | 44 |
+| last180d | 2026-03-27 | 3 | 138 | 51 | 35 | 51 | 450 |
+| 360d | 2025-09-28 | 3 | 202 | 52 | 83 | 54 | 688 |
+| last720d | 2024-10-03 | 3 | 202 | 52 | 83 | 54 | 893 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ CLI-Anything 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:15:59Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:30:42Z._

@@ -4,7 +4,7 @@
 
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 
-[![x-cmd/install — CLI-Anything Code Quality Monitoring Repo Card](https://repo.x-cmd.io/CLI-Anything.svg)](https://x-cmd.com/install/CLI-Anything)
+[![x-cmd/install — CLI-Anything Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/CLI-Anything.svg)](https://x-cmd.com/install/CLI-Anything)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **260,449** lines of code across **1244** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 49,674 · **Forks**: 4,588 · **Open issues**: 137 · **Contributors**: 111
+- **Stars**: 49,716 · **Forks**: 4,590 · **Open issues**: 137 · **Contributors**: 111
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 202 · **Open PRs**: 50 · **Closed issues**: 83 · **Open issues**: 54 · **Commits**: 893
+- **Releases**: 3 · **Merged PRs**: 202 · **Open PRs**: 52 · **Closed issues**: 83 · **Open issues**: 54 · **Commits**: 893
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 4 | 20 | 0 | 8 | 4 |
-| last60d | 2026-07-24 | 0 | 19 | 24 | 4 | 11 | 31 |
-| 90d | 2026-06-24 | 1 | 34 | 30 | 9 | 21 | 44 |
-| last180d | 2026-03-26 | 3 | 141 | 49 | 38 | 53 | 450 |
-| 360d | 2025-09-27 | 3 | 202 | 50 | 83 | 54 | 688 |
-| last720d | 2024-10-02 | 3 | 202 | 50 | 83 | 54 | 893 |
+| 30d | 2026-08-24 | 0 | 4 | 21 | 0 | 8 | 4 |
+| last60d | 2026-07-25 | 0 | 19 | 27 | 4 | 11 | 31 |
+| 90d | 2026-06-25 | 1 | 34 | 32 | 9 | 21 | 44 |
+| last180d | 2026-03-27 | 3 | 138 | 51 | 35 | 51 | 450 |
+| 360d | 2025-09-28 | 3 | 202 | 52 | 83 | 54 | 688 |
+| last720d | 2024-10-03 | 3 | 202 | 52 | 83 | 54 | 893 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for CLI-Anything lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:15:58Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:30:41Z._
