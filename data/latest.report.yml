@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.0"
   latestRelease: "v0.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:59:15Z
+  collectedAt: 2026-10-30T06:49:33Z
 timeline:
   created: 2026-03-08
   lastCommit: 2026-09-22
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-25
   lastPrerelease: 
 popularity:
-  star: 57615
-  watcher: 210
-  fork: 5188
+  star: 57757
+  watcher: 209
+  fork: 5196
   release: 3
   contributor: 111
-  pullRequest: 442
+  pullRequest: 444
   issue: 174
 language:
   Python: 11022627
@@ -33,63 +33,63 @@ language:
 totalBytes: 11364129
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 0
-    openPR: 92
+    openPR: 91
     closedIssue: 1
     openIssue: 31
     commit: 0
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 4
-    openPR: 113
+    openPR: 114
     closedIssue: 2
     openIssue: 40
     commit: 4
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
-    mergedPR: 19
-    openPR: 120
-    closedIssue: 6
+    mergedPR: 17
+    openPR: 122
+    closedIssue: 5
     openIssue: 45
     commit: 31
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 1
-    mergedPR: 84
-    openPR: 137
+    mergedPR: 83
+    openPR: 139
     closedIssue: 23
-    openIssue: 73
+    openIssue: 72
     commit: 218
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 3
     mergedPR: 202
-    openPR: 145
+    openPR: 147
     closedIssue: 85
     openIssue: 89
     commit: 688
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 3
     mergedPR: 202
-    openPR: 145
+    openPR: 147
     closedIssue: 85
     openIssue: 89
     commit: 893
 total:
   release: 3
   mergedPR: 202
-  openPR: 145
+  openPR: 147
   closedIssue: 85
   openIssue: 89
   commit: 893
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/CLI-Anything
-collectedAt: 2026-10-29T06:59:24Z
+collectedAt: 2026-10-30T06:49:37Z
 loc:
   Python:
     code: 242308
